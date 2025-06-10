@@ -4,15 +4,15 @@
 
 ###
 
-<h1 align="center"> HEY THERE!!👋</h1>
+<h1 align="center"> HEY THERE!!👋🏽</h1>
 
 ###
 
-<h3 align="left">👩‍💻About Me</h3>
+<h3 align="left">👨🏽‍💻About Me</h3>
 
 ###
 
-<p align="left">I'm Joshua Akaonye from Nigeria<br>- 📚 A computer science student at IU International University of Applied Sciences<br>- ⚡ In my free time I love training MMA </p>
+<p align="left">My name is Joshua Akaonye<br>- 📚 A computer science student at IU International University of Applied Sciences<br>- 🔭 I am an aspiring software developer<br>- ⚡In my free time, I like to work on personal projects, train in MMA, work out and play video games." </p>
 
 ###
 <h3 align="left">🛠 Programing Languages and tools</h3>
